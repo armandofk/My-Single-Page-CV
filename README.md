@@ -1,16 +1,16 @@
 # My Single Page CV
 
-Simple CV in HTML and some CSS with study purpose ----------
+A simple CV built with HTML and CSS for study purposes.
 
 ## Demo
 
 [See Demo](https://armandofk.github.io/My-Single-Page-CV/)
 
-## Technologies That Was Used
+## Technologies Used
 
-- HTML5 - Semantic HTML structure;
-- CSS3 - Simplicity styles for simple good looking.
+- **HTML5** - Semantic HTML structure;
+- **CSS3** - Simple styles for a clean and good-looking layout.
 
 ## Good To Know
 
-- This project was made using the [Roadmap.sh](https://roadmap.sh/projects/single-page-cv) guide.
+- This project was created following the [Roadmap.sh](https://roadmap.sh/projects/single-page-cv) guide.
