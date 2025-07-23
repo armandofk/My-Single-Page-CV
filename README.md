@@ -4,7 +4,7 @@ Simple CV in HTML and some CSS with study purpose ----------
 
 ## Demo
 
-[See Demo]()
+[See Demo](https://armandofk.github.io/My-Single-Page-CV/)
 
 ## Technologies That Was Used
 
@@ -14,4 +14,3 @@ Simple CV in HTML and some CSS with study purpose ----------
 ## Good To Know
 
 - This project was made using the [Roadmap.sh](https://roadmap.sh/projects/single-page-cv) guide.
-
