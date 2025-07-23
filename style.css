@@ -15,6 +15,11 @@ body {
   padding: 2rem;
 }
 
+.main-cv {
+  display: inline-block;
+  border-top: solid 3px #333;
+}
+
 header {
   margin-bottom: 1.6rem;
 }
